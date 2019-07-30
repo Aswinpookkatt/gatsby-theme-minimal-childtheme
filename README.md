@@ -1,2 +1,3 @@
 # gatsby-theme-minimal-childtheme
- Gatsby themejam child-theme repository
+
+ This Repository contains  Gatsby theme jam child-theme 
