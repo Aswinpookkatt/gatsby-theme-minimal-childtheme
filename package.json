@@ -1,0 +1,14 @@
+{
+
+  "name": "gatsby-theme-minimal-childtheme",
+  "author": "Aswinpookkatt",
+  "url": "https://github.com/Aswinpookkatt/gatsby-theme-minimal.git",
+  "version":" 1.1.1",
+  "workspaces": [
+    "theme",
+    "demo"
+  ],
+  "dependencies": {
+    "user": "0.0.0"
+  }
+}
